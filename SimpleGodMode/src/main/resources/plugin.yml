@@ -1,9 +1,0 @@
-name: SimpleGodMode
-version: '${project.version}'
-main: me.denizozaltay.simplegodmode.SimpleGodMode
-api-version: 1.19
-description: Simple God Mod Plugin
-commands:
-  god:
-    description: Makes you invincible
-    usage: /<command>
